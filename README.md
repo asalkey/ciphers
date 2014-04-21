@@ -1,3 +1,3 @@
-Simple caesar cipher program
+Caesar and Vigenere cipher programs
 
 
